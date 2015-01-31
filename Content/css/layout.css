@@ -9,11 +9,6 @@
 *{
     margin:10 10 10 10;
 }
-footer>nav>nav>ul>li {
-    font-size:small;
-    color:white;
+.navbar-fixed-top{
+	border-bottom: .2vh solid brown;
 }
-#footer{
-        background-color: teal;
-}
-
