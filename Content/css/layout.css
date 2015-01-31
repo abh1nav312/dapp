@@ -1,0 +1,19 @@
+﻿body
+{
+
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    padding: 5 5 5 5;
+}
+
+*{
+    margin:10 10 10 10;
+}
+footer>nav>nav>ul>li {
+    font-size:small;
+    color:white;
+}
+#footer{
+        background-color: teal;
+}
+
